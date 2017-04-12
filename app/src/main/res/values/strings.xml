@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="main_title">Do you know the capital cities of these countries?</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="name">Your Name</string>
+    <string name="gender">Gender</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string name="gender_prompt">Your Gender?</string>
+    <string name="age_group_text">Age Group</string>
+    <string name="age_prompt">Select your age group</string>
+    <string-array name="age_group_array">
+        <item>8 - 18</item>
+        <item>19 - 23</item>
+        <item>24 - 31</item>
+        <item>32 - 40</item>
+        <item>41 - 50</item>
+        <item>51 - 65</item>
+        <item>65+</item>
+    </string-array>
+    <string name="favorite_tourist_region">Favorite Tourist Region</string>
+    <string name="question_text">Questions:</string>
+    <string name="multiple_allowed">Multiple choices allowed</string>
+    <string name="region_africa">Africa</string>
+    <string name="region_americas">Americas</string>
+    <string name="region_east_asia">East Asia and the Pacific</string>
+    <string name="region_europe">Europe</string>
+    <string name="region_me">Middle East</string>
+    <string name="region_oceania">Oceania</string>
+    <string name="region_south_asia">South Asia</string>
+
+
+    <!--Questions and answers-->
+    <string name="question1">What is the capital of Italy?</string>
+    <string name="question1_answer1">Paris</string>
+    <string name="question1_answer2">Rome</string>
+    <string name="question1_answer3">Berlin</string>
+
+    <string name="question2">What is the capital of Bolivia?</string>
+    <string name="question2_answer1">Sucre</string>
+    <string name="question2_answer2">Buenos Aires</string>
+    <string name="question2_answer3">Bogotá</string>
+
+    <string name="question3">What is the capital of China?</string>
+    <string name="question3_answer1">Seoul</string>
+    <string name="question3_answer2">Beijing</string>
+    <string name="question3_answer3">Pyongyang</string>
+
+    <string name="question4">What is the capital of Latvia?</string>
+    <string name="question4_answer1">Tallinn</string>
+    <string name="question4_answer2">Minsk</string>
+    <string name="question4_answer3">Riga</string>
+
+    <string name="question5">What is the capital of Cuba?</string>
+    <string name="question5_answer1">Havana</string>
+    <string name="question5_answer2">Tegucigalpa</string>
+    <string name="question5_answer3">Managua</string>
+
+    <string name="question6">What is the capital of Syria?</string>
+    <string name="question6_answer1">Damascus</string>
+    <string name="question6_answer2">Tel Aviv</string>
+    <string name="question6_answer3">Amman</string>
+
+    <string name="question7">What is the capital of New Zealand?</string>
+    <string name="question7_answer1">Canberra</string>
+    <string name="question7_answer2">Moresby</string>
+    <string name="question7_answer3">Wellington</string>
+
+    <string name="question8">What is the capital of Nigeria?</string>
+    <string name="question8_answer1">Abuja</string>
+    <string name="question8_answer2">Khartoum</string>
+    <string name="question8_answer3">Juba</string>
+
+    <string name="submit">View Results</string>
+</resources>
